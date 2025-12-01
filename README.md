@@ -367,7 +367,3 @@ Refer to `argparse` definitions in each script for the exact options currently s
   Do not deploy or use generated messages for malicious or unethical activity.
 
 ---
-
-## License
-
-Add your preferred license here (e.g., MIT, Apache 2.0) and include a `LICENSE` file in the repository.
