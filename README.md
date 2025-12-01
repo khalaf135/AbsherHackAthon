@@ -43,13 +43,6 @@ The two components are trained in an adversarial loop: the generator crafts chal
           │  - Classify SMS                          │
           │  - Generate adversarial examples         │
           └──────────────────────────────────────────┘
-```
-
-If you prefer a graphical figure, you can create an image (e.g. `docs/architecture.png`) and reference it as:
-
-```markdown
-![Figure 1: Adversarial SMS detection architecture](docs/architecture.png)
-```
 
 ---
 
